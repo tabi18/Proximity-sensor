@@ -4,7 +4,7 @@
 
 ## Items used
 - Arduino Uno R3
-- Ulstrasonic Sensor
+- Ultrasonic Sensor
 - Buzzer
 - Breadboard
 
