@@ -1,5 +1,6 @@
 # Proximity-sensor
- 
+
+The proximity sensor utilizes ultrasonic technology to detect the presence and proximity of objects within its range. When an object is detected within the defined proximity range, the system activates the buzzer to provide audible alerts, indicating the presence of the object. This project demonstrates the practical application of a proximity sensor, offering a reliable solution for object detection and proximity monitoring in various applications such as security systems, robotics, or automation.
  
 
 ## Items used
